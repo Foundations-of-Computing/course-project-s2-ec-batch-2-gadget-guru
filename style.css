@@ -1,0 +1,58 @@
+body {
+  background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: xx-large;
+  color:rgb(43, 9, 180);
+  margin:0;
+  padding:0;
+ }
+header{
+background-color:whitesmoke;
+text-align: center;
+padding: 20px;
+font-size: 25px;
+height:20em;
+background-image: 
+url("https://assets.architecturaldigest.in/photos/60084fc951daf9662c149bb9/16:9/w_1280,c_limit/how-to-clean-gadgets-1366x768.jpg?mbid=social_retweet");
+background-size:100%;
+line-height: normal;
+} 
+h1{
+font-size: 100px;
+color: rgba(59, 156, 137, 0.741);
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+padding: 100px;;
+}
+h4{
+  color: rgb(32, 91, 123);
+  bottom: 0%;
+}
+div{
+  display: inline-block;
+  margin: 30px;
+  height:40px;
+  padding:15px
+}
+section{
+background-color: white;
+color: rgb(0, 0, 0);
+display: inline;
+} 
+p{
+  font-size:x-large;
+  font-family: 'Times New Roman', Times, serif;
+}
+footer{
+background-color:white;
+font-size: large;
+}
+a {
+ 
+  text-decoration:none;
+}
+a:hover {
+  color: hotpink;
+}
+a:link{
+  color: rgb(18, 98, 190);
+}
